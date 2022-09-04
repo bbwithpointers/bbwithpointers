@@ -1,6 +1,6 @@
 - :vulcan_salute: Hi there, I’m Bruno, or bbwithpointers.
-- 👀 I’m interested in back-end systems, APIs, DApps, Blockchain, clean code and making friends.
-- 🌱 I’m currently learning more about ETH and its blockchain ecossystem, building DApps with Web3.js and JS.
+- 👀 I’m interested in back-end systems, APIs, clean code and making friends.
+- 🌱 I’m currently learning more about PHP/Laravel
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain 
 - 📫 How to reach me: by e-mail 
 
