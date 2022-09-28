@@ -1,8 +1,10 @@
 - :vulcan_salute: Hi there, I’m Bruno, or bbwithpointers.
 - 👀 I’m interested in back-end systems, APIs, clean code/architecture, pets and making friends.
-- 🌱 I’m currently learning more about JS and react-native ecossystem (learning in public here and on https://dev.to/bbwithpointers)
+- 🌱 I’m currently learning more about JS and react-native ecossystem 
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
 - 📫 How to reach me: by e-mail 
+
+- Creator of www.adacreators.com
 
 - Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
