@@ -5,7 +5,7 @@
 - 📫 How to reach me: by e-mail 
 
 - Creator of www.adacreators.com [WIP]
-- Sometimes I write on dev.to/bbwithpointers
+- Sometimes I write on [dev.to/bbwithpointers](https://dev.to/bbwithpointers)
 
 - Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
