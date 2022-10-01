@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
 - 📫 How to reach me: by e-mail 
 
-- Creator of www.adacreators.com
+- Creator of www.adacreators.com [WIP]
+- Sometimes I write on dev.to/bbwithpointers
 
 - Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
