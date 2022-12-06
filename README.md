@@ -1,6 +1,6 @@
 - :vulcan_salute: Hi there, I’m Bruno, or bbwithpointers.
 - 👀 I’m interested in back-end systems Java, APIs, clean code/architecture, pets and making friends.
-- 🌱 I’m currently learning more about typescript and angular ecossystem 
+- 🌱 I’m currently learning more about hardware hacking and low level code.
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
 - 📫 How to reach me: by e-mail 
 
