@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
 - 📫 How to reach me: by e-mail 
 
-- Creator of www.adacreators.com [WIP - rewriting it in java/angular]
 - Sometimes I write on [dev.to/bbwithpointers](https://dev.to/bbwithpointers)
 
 - Latin American :brazil: 
