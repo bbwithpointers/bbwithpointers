@@ -1,5 +1,5 @@
 - :vulcan_salute: Hi there, I’m Bruno, or bbwithpointers.
-- 👀 I’m interested in back-end systems Java, APIs, clean code/architecture, pets and making friends.
+- 👀 I’m interested in back-end systems PHP/Java, APIs, clean code/architecture, pets and making friends.
 - 🌱 I’m currently learning more about hardware hacking, eletronic and low level/embbeded code (with Rust!).
 - 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
 - 📫 How to reach me: by e-mail 
