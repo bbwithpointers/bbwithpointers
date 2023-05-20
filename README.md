@@ -1,7 +1,7 @@
-- :vulcan_salute: Hi there, I’m Bruno, or bbwithpointers.
+- :vulcan_salute: Hi there, I’m Bruno Barros.
 - 👀 I’m interested in back-end systems Java, APIs, clean code/architecture, pets and making friends.
-- 💞️ I’m looking to collaborate on open-source projects, Decentralized apps and blockchain.
-- 📫 How to reach me: by e-mail or twitter on @obrunojava
+- 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
+- 📫 How to reach me: by the e-mail on the left or on twitter @obrunojava
 
 - Sometimes I write on [dev.to/bbwithpointers](https://dev.to/bbwithpointers)
 
