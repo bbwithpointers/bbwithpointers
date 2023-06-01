@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
 - 📫 How to reach me: by the e-mail on the left or on twitter @obrunojava
 
-- Sometimes I write on [dev.to/bbwithpointers](https://dev.to/bbwithpointers)
+- Sometimes I write on [dev.to/obrunojava](https://dev.to/obrunojava)
 
 - Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
