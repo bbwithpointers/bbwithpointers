@@ -1,11 +1,17 @@
 - :vulcan_salute: Hi there, I’m Bruno Barros.
-- 👀 I’m interested in back-end systems Java, APIs, clean code/architecture, pets and making friends.
+- 👀 I’m interested in back-end systems Java, C, APIs, clean code/architecture, pets and making friends.
 - 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
-- 📫 How to reach me: by the e-mail on the left or on twitter @obrunojava
+- 📫 How to reach me: by the e-mail on the left or on tiktok/youtube by @techpordentro
 
-- Sometimes I write on [dev.to/obrunojava](https://dev.to/obrunojava)
+<h2>Tech Content Creator at:</h2>
 
-- Latin American :brazil: 
+- Youtube: [TechPorDentro](https://www.youtube.com/channel/UCs2qyCl27nwCSBrUluvJSVA)
+
+- Tiktok: [Techpordentro](http://www.tiktok.com/@techpordentro)
+
+
+
+Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
 - PT-BR :brazil:/ ES :colombia:  / EN 
 <!---
