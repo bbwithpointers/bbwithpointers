@@ -5,11 +5,6 @@
 
 <h2>Tech Content Creator at:</h2>
 
-- Youtube: [TechPorDentro](https://www.youtube.com/channel/UCs2qyCl27nwCSBrUluvJSVA)
-
-- Tiktok: [Techpordentro](http://www.tiktok.com/@techpordentro)
-
-
 
 Latin American :brazil: 
 - :house_with_garden: :earth_americas: remote-only dev.
