@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
 - 📫 How to reach me: by the e-mail on the left or on tiktok/youtube by @techpordentro
 
-<h2>Tech Content Creator at:</h2>
+<h2>Tech Content Creator at: https://dev.to/brunobarros2093</h2>
 
 
 Latin American :brazil: 
