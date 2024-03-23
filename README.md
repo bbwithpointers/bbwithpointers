@@ -1,7 +1,7 @@
 - :vulcan_salute: Hi there, I’m Bruno Barros.
-- 👀 I’m interested in back-end systems and languages [java, php, go], APIs, clean code/architecture, pets and making friends.
+- 👀 I’m interested in back-end systems and languages [java, go], APIs, clean code/architecture, pets and making friends.
 - 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
-- 📫 How to reach me: by the e-mail on the left or on tiktok/youtube by @techpordentro
+- 📫 How to reach me: by the e-mail on the left 
 
 <h2>Tech Content Creator at: https://dev.to/brunobarros2093</h2>
 
