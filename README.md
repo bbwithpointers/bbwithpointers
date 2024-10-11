@@ -1,3 +1,7 @@
+=> Tal como um mago que nunca se atrasa, esses projetos em andamento não estão atrasados, eles ficarão prontos quando devem ficar, não sufoque o artista. 
+
+=> Like the Grand'Elf, I am never late, those WIP projects will be finished one day, dont push it the artist. 
+
 - :vulcan_salute: Hi there, I’m Bruno Barros.
 - 👀 I’m interested in back-end systems and languages, APIs, clean code/architecture, pets.
 - 💞️ I’m looking to collaborate on open-source projects and ideas that impact society.
