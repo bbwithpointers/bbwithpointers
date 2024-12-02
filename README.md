@@ -9,9 +9,8 @@
 
 <h2>Tech Content Creator at: https://dev.to/brunobarros2093</h2>
 
-Languages I've work: 
+Languages I've love: 
 - Java ☕
-- Python 🐍
 - Golang 🐕
 
 Latin American :brazil: 
